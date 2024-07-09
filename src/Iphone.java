@@ -16,7 +16,6 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
         System.out.println("Desligando....");
     }
 
-
     @Override
     public void ligar(String numero) {
 
